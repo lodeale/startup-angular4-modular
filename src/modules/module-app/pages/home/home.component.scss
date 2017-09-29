@@ -1,0 +1,13 @@
+.app {
+    &--home {
+        &-content{
+            vertical-align: top;
+
+            & img{
+                float: left;
+                width: 500px;
+            }
+
+        }
+    }
+}
